@@ -1,0 +1,17 @@
+body h1.cbi-page-title:before {
+    background-image: url('../images/logo.png');
+    background-size: 1em 1em;
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 1em; 
+    height: 1em;
+    content:"";
+    
+    padding-inline-end: .2em;
+    vertical-align: -18%;
+}
+
+.form-table th {
+    width: 165px!important;
+    font-size: 1.3em!important;
+}
